@@ -15,3 +15,4 @@ publishDir = "docs"
   ShowPostNavLinks = true
 [params.assets]
   customJS = ["js/ads.js"]# Updated author to Vendel Ottenberg
+# Rebuild trigger
