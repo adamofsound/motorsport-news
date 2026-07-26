@@ -14,4 +14,4 @@ publishDir = "docs"
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
 [params.assets]
-  customJS = ["js/ads.js"]
+  customJS = ["js/ads.js"]# Updated author to Vendel Ottenberg
