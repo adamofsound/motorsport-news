@@ -5,7 +5,7 @@ theme = "PaperMod"
 publishDir = "docs"
 
 [params]
-  author = "Your Name"
+  author = "Vendel Ottenberg"
   description = "Latest F1, WEC & IMSA news, analysis & media"
   showReadingTime = false
   disableAssetFingerprinting = false
