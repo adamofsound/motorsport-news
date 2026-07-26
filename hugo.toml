@@ -1,0 +1,14 @@
+baseURL = "https://yourusername.github.io/motorsport-news/"
+languageCode = "en-us"
+title = "Motorsport Pulse"
+theme = "PaperMod"
+
+[params]
+  author = "Your Name"
+  description = "Latest F1, WEC & IMSA news, analysis & media"
+  showReadingTime = false
+  disableAssetFingerprinting = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
