@@ -1,7 +1,8 @@
-baseURL = "https://yourusername.github.io/motorsport-news/"
+baseURL = "https://adamofsound.github.io/motorsport-news/"
 languageCode = "en-us"
 title = "Motorsport Pulse"
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
   author = "Your Name"
@@ -12,3 +13,5 @@ theme = "PaperMod"
   ShowShareButtons = false
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
+[params.assets]
+  customJS = ["js/ads.js"]
