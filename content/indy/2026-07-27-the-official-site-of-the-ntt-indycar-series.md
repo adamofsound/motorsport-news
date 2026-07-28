@@ -12,4 +12,4 @@ The official site of the NTT INDYCAR SERIES, North America&#39;s premier open-wh
 
 ![The Official Site of the NTT INDYCAR SERIES](/img/motorsport/2026-07-27/the-official-site-of-the-ntt-indycar-series.jpg)
 
-*Source: [https://www.indycar.com/](https://www.indycar.com/)*
+*Source: [https://www.indycar.com/?linkId=100000003000742](https://www.indycar.com/?linkId=100000003000742)*
