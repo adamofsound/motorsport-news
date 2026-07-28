@@ -6,20 +6,41 @@
     <description>Recent content in Tags on Motorsport Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://adamofsound.github.io/motorsport-news/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>F1</title>
       <link>https://adamofsound.github.io/motorsport-news/tags/f1/</link>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://adamofsound.github.io/motorsport-news/tags/f1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imsa</title>
+      <link>https://adamofsound.github.io/motorsport-news/tags/imsa/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://adamofsound.github.io/motorsport-news/tags/imsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indy</title>
+      <link>https://adamofsound.github.io/motorsport-news/tags/indy/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://adamofsound.github.io/motorsport-news/tags/indy/</guid>
       <description></description>
     </item>
     <item>
       <title>Motorsport</title>
       <link>https://adamofsound.github.io/motorsport-news/tags/motorsport/</link>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://adamofsound.github.io/motorsport-news/tags/motorsport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wec</title>
+      <link>https://adamofsound.github.io/motorsport-news/tags/wec/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://adamofsound.github.io/motorsport-news/tags/wec/</guid>
       <description></description>
     </item>
   </channel>
