@@ -5,7 +5,7 @@ theme = "PaperMod"
 publishDir = "docs"
 
 [params]
-  author = "Vendel Ottenberg"
+label.icon = "images/logo.png"
   description = "Latest F1, WEC & IMSA news, analysis & media"
   showReadingTime = false
   disableAssetFingerprinting = false
@@ -14,5 +14,5 @@ publishDir = "docs"
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
 [params.assets]
-  customJS = ["js/ads.js"]# Updated author to Vendel Ottenberg
+customCSS = ["css/custom.css"]
 # Rebuild trigger

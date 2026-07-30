@@ -1,0 +1,58 @@
+/* MotorsportPulse Brand Customizations */
+/* Primary colors */
+:root {
+    --mp-primary: #C41E3A;   /* Deep Red */
+    --mp-secondary: #0066FF; /* Bright Blue */
+    --mp-accent: #FFD700;    /* Highlight Yellow */
+    --mp-bg: #ffffff;
+    --mp-text: #212529;
+}
+
+/* Apply brand colors to theme elements */
+/* Links */
+a, .post-meta a, .tags a, .categories a, .pagination a {
+    color: var(--mp-primary) !important;
+}
+a:hover, .post-meta a:hover, .tags a:hover, .categories a:hover, .pagination a:hover {
+    color: var(--mp-accent) !important;
+}
+
+/* Buttons */
+.btn, .button, .read-more, .btn-outline, .btn-primary {
+    background-color: var(--mp-primary) !important;
+    border-color: var(--mp-primary) !important;
+    color: #fff !important;
+}
+.btn:hover, .button:hover, .read-more:hover, .btn-outline:hover, .btn-primary:hover {
+    background-color: var(--mp-accent) !important;
+    border-color: var(--mp-accent) !important;
+    color: #212529 !important;
+}
+
+/* Menu hover */
+#menu li a:hover {
+    color: var(--mp-accent) !important;
+}
+
+/* Site title in header (if it's a link) */
+.header .logo a {
+    color: var(--mp-primary) !important;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+}
+
+/* Optional: Add a subtle accent to hover states on cards, etc. */
+.card, .post {
+    border-color: rgba(196, 30, 58, 0.1) !important;
+}
+.card:hover, .post:hover {
+    border-color: var(--mp-primary) !important;
+}
+
+/* Footer text color */
+.footer a, .footer {
+    color: inherit !important;
+}
+.footer a:hover {
+    color: var(--mp-accent) !important;
+}
