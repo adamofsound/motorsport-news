@@ -12,4 +12,4 @@ Don&#x27;t miss a Formula 1 moment – with the latest news, videos, standings a
 
 ![Latest F1 News](/img/motorsport/2026-08-01/latest-f1-news.jpg)
 
-*Source: [https://www.formula1.com/en/latest?page=1](https://www.formula1.com/en/latest?page=1)*
+*Source: [https://www.formula1.com/en/latest](https://www.formula1.com/en/latest)*
